@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\bootcamp .net\\UserManagement_task3\\UserManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10161485-9098-48AC-ADEB-D2000105434F}|Services\\Services.csproj|d:\\bootcamp .net\\usermanagement_task3\\usermanagement\\services\\services\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10161485-9098-48AC-ADEB-D2000105434F}|Services\\Services.csproj|solutionrelative:services\\services\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61439B95-D58D-4A2F-A831-FD8DC77303B2}|UserManagement\\UserManagement.csproj|d:\\bootcamp .net\\usermanagement_task3\\usermanagement\\usermanagement\\userinterfaces\\memberpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61439B95-D58D-4A2F-A831-FD8DC77303B2}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\userinterfaces\\memberpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61439B95-D58D-4A2F-A831-FD8DC77303B2}|UserManagement\\UserManagement.csproj|d:\\bootcamp .net\\usermanagement_task3\\usermanagement\\usermanagement\\userinterfaces\\adminpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61439B95-D58D-4A2F-A831-FD8DC77303B2}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\userinterfaces\\adminpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80EDAAA-38E5-4CFA-A609-4389779ADC24}|DataAccess\\DataAccess.csproj|d:\\bootcamp .net\\usermanagement_task3\\usermanagement\\dataaccess\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80EDAAA-38E5-4CFA-A609-4389779ADC24}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80EDAAA-38E5-4CFA-A609-4389779ADC24}|DataAccess\\DataAccess.csproj|d:\\bootcamp .net\\usermanagement_task3\\usermanagement\\dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80EDAAA-38E5-4CFA-A609-4389779ADC24}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10161485-9098-48AC-ADEB-D2000105434F}|Services\\Services.csproj|d:\\bootcamp .net\\usermanagement_task3\\usermanagement\\services\\dtos\\logininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10161485-9098-48AC-ADEB-D2000105434F}|Services\\Services.csproj|solutionrelative:services\\dtos\\logininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80EDAAA-38E5-4CFA-A609-4389779ADC24}|DataAccess\\DataAccess.csproj|d:\\bootcamp .net\\usermanagement_task3\\usermanagement\\dataaccess\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80EDAAA-38E5-4CFA-A609-4389779ADC24}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\bootcamp .net\\UserManagement_task3\\UserManagement\\DataAccess\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\bootcamp .net\\UserManagement_task3\\UserManagement\\DataAccess\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T07:07:26.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginInfo.cs",
+              "DocumentMoniker": "D:\\bootcamp .net\\UserManagement_task3\\UserManagement\\Services\\Dtos\\LoginInfo.cs",
+              "RelativeDocumentMoniker": "Services\\Dtos\\LoginInfo.cs",
+              "ToolTip": "D:\\bootcamp .net\\UserManagement_task3\\UserManagement\\Services\\Dtos\\LoginInfo.cs",
+              "RelativeToolTip": "Services\\Dtos\\LoginInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T07:00:21.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MemberService.cs",
+              "DocumentMoniker": "D:\\bootcamp .net\\UserManagement_task3\\UserManagement\\Services\\Services\\MemberService.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\MemberService.cs",
+              "ToolTip": "D:\\bootcamp .net\\UserManagement_task3\\UserManagement\\Services\\Services\\MemberService.cs",
+              "RelativeToolTip": "Services\\Services\\MemberService.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwEcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T06:51:31.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MemberPage.cs",
+              "DocumentMoniker": "D:\\bootcamp .net\\UserManagement_task3\\UserManagement\\UserManagement\\UserInterfaces\\MemberPage.cs",
+              "RelativeDocumentMoniker": "UserManagement\\UserInterfaces\\MemberPage.cs",
+              "ToolTip": "D:\\bootcamp .net\\UserManagement_task3\\UserManagement\\UserManagement\\UserInterfaces\\MemberPage.cs",
+              "RelativeToolTip": "UserManagement\\UserInterfaces\\MemberPage.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAwEoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T06:51:07.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminPage.cs",
+              "DocumentMoniker": "D:\\bootcamp .net\\UserManagement_task3\\UserManagement\\UserManagement\\UserInterfaces\\AdminPage.cs",
+              "RelativeDocumentMoniker": "UserManagement\\UserInterfaces\\AdminPage.cs",
+              "ToolTip": "D:\\bootcamp .net\\UserManagement_task3\\UserManagement\\UserManagement\\UserInterfaces\\AdminPage.cs",
+              "RelativeToolTip": "UserManagement\\UserInterfaces\\AdminPage.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T02:50:57.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\bootcamp .net\\UserManagement_task3\\UserManagement\\DataAccess\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repositories\\Repository.cs",
+              "ToolTip": "D:\\bootcamp .net\\UserManagement_task3\\UserManagement\\DataAccess\\Repositories\\Repository.cs",
+              "RelativeToolTip": "DataAccess\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T02:11:39.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Member.cs",
+              "DocumentMoniker": "D:\\bootcamp .net\\UserManagement_task3\\UserManagement\\DataAccess\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Models\\Member.cs",
+              "ToolTip": "D:\\bootcamp .net\\UserManagement_task3\\UserManagement\\DataAccess\\Models\\Member.cs",
+              "RelativeToolTip": "DataAccess\\Models\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T02:14:40.9Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

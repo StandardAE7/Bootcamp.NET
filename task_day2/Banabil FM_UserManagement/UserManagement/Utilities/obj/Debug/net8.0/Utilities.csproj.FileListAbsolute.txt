@@ -1,0 +1,22 @@
+D:\course\UserManagement\UserManagement\Utilities\bin\Debug\net8.0\Utilities.deps.json
+D:\course\UserManagement\UserManagement\Utilities\bin\Debug\net8.0\Utilities.dll
+D:\course\UserManagement\UserManagement\Utilities\bin\Debug\net8.0\Utilities.pdb
+D:\course\UserManagement\UserManagement\Utilities\obj\Debug\net8.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\course\UserManagement\UserManagement\Utilities\obj\Debug\net8.0\Utilities.AssemblyInfoInputs.cache
+D:\course\UserManagement\UserManagement\Utilities\obj\Debug\net8.0\Utilities.AssemblyInfo.cs
+D:\course\UserManagement\UserManagement\Utilities\obj\Debug\net8.0\Utilities.csproj.CoreCompileInputs.cache
+D:\course\UserManagement\UserManagement\Utilities\obj\Debug\net8.0\Utilities.dll
+D:\course\UserManagement\UserManagement\Utilities\obj\Debug\net8.0\refint\Utilities.dll
+D:\course\UserManagement\UserManagement\Utilities\obj\Debug\net8.0\Utilities.pdb
+D:\course\UserManagement\UserManagement\Utilities\obj\Debug\net8.0\ref\Utilities.dll
+D:\bootcamp .net\UserManagement_task3\UserManagement\Utilities\bin\Debug\net8.0\Utilities.deps.json
+D:\bootcamp .net\UserManagement_task3\UserManagement\Utilities\bin\Debug\net8.0\Utilities.dll
+D:\bootcamp .net\UserManagement_task3\UserManagement\Utilities\bin\Debug\net8.0\Utilities.pdb
+D:\bootcamp .net\UserManagement_task3\UserManagement\Utilities\obj\Debug\net8.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\bootcamp .net\UserManagement_task3\UserManagement\Utilities\obj\Debug\net8.0\Utilities.AssemblyInfoInputs.cache
+D:\bootcamp .net\UserManagement_task3\UserManagement\Utilities\obj\Debug\net8.0\Utilities.AssemblyInfo.cs
+D:\bootcamp .net\UserManagement_task3\UserManagement\Utilities\obj\Debug\net8.0\Utilities.csproj.CoreCompileInputs.cache
+D:\bootcamp .net\UserManagement_task3\UserManagement\Utilities\obj\Debug\net8.0\Utilities.dll
+D:\bootcamp .net\UserManagement_task3\UserManagement\Utilities\obj\Debug\net8.0\refint\Utilities.dll
+D:\bootcamp .net\UserManagement_task3\UserManagement\Utilities\obj\Debug\net8.0\Utilities.pdb
+D:\bootcamp .net\UserManagement_task3\UserManagement\Utilities\obj\Debug\net8.0\ref\Utilities.dll

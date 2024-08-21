@@ -1,0 +1,22 @@
+D:\course\UserManagement\UserManagement\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+D:\course\UserManagement\UserManagement\DataAccess\bin\Debug\net8.0\DataAccess.dll
+D:\course\UserManagement\UserManagement\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+D:\course\UserManagement\UserManagement\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\course\UserManagement\UserManagement\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+D:\course\UserManagement\UserManagement\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+D:\course\UserManagement\UserManagement\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\course\UserManagement\UserManagement\DataAccess\obj\Debug\net8.0\DataAccess.dll
+D:\course\UserManagement\UserManagement\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+D:\course\UserManagement\UserManagement\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+D:\course\UserManagement\UserManagement\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
+D:\bootcamp .net\UserManagement_task3\UserManagement\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+D:\bootcamp .net\UserManagement_task3\UserManagement\DataAccess\bin\Debug\net8.0\DataAccess.dll
+D:\bootcamp .net\UserManagement_task3\UserManagement\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+D:\bootcamp .net\UserManagement_task3\UserManagement\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\bootcamp .net\UserManagement_task3\UserManagement\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+D:\bootcamp .net\UserManagement_task3\UserManagement\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+D:\bootcamp .net\UserManagement_task3\UserManagement\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\bootcamp .net\UserManagement_task3\UserManagement\DataAccess\obj\Debug\net8.0\DataAccess.dll
+D:\bootcamp .net\UserManagement_task3\UserManagement\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+D:\bootcamp .net\UserManagement_task3\UserManagement\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+D:\bootcamp .net\UserManagement_task3\UserManagement\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll

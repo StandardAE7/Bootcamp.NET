@@ -1,0 +1,34 @@
+D:\course\UserManagement\UserManagement\Services\bin\Debug\net8.0\Services.deps.json
+D:\course\UserManagement\UserManagement\Services\bin\Debug\net8.0\Services.dll
+D:\course\UserManagement\UserManagement\Services\bin\Debug\net8.0\Services.pdb
+D:\course\UserManagement\UserManagement\Services\bin\Debug\net8.0\DataAccess.dll
+D:\course\UserManagement\UserManagement\Services\bin\Debug\net8.0\Utilities.dll
+D:\course\UserManagement\UserManagement\Services\bin\Debug\net8.0\DataAccess.pdb
+D:\course\UserManagement\UserManagement\Services\bin\Debug\net8.0\Utilities.pdb
+D:\course\UserManagement\UserManagement\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+D:\course\UserManagement\UserManagement\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\course\UserManagement\UserManagement\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+D:\course\UserManagement\UserManagement\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+D:\course\UserManagement\UserManagement\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+D:\course\UserManagement\UserManagement\Services\obj\Debug\net8.0\Services.csproj.Up2Date
+D:\course\UserManagement\UserManagement\Services\obj\Debug\net8.0\Services.dll
+D:\course\UserManagement\UserManagement\Services\obj\Debug\net8.0\refint\Services.dll
+D:\course\UserManagement\UserManagement\Services\obj\Debug\net8.0\Services.pdb
+D:\course\UserManagement\UserManagement\Services\obj\Debug\net8.0\ref\Services.dll
+D:\bootcamp .net\UserManagement_task3\UserManagement\Services\bin\Debug\net8.0\Services.deps.json
+D:\bootcamp .net\UserManagement_task3\UserManagement\Services\bin\Debug\net8.0\Services.dll
+D:\bootcamp .net\UserManagement_task3\UserManagement\Services\bin\Debug\net8.0\Services.pdb
+D:\bootcamp .net\UserManagement_task3\UserManagement\Services\bin\Debug\net8.0\DataAccess.dll
+D:\bootcamp .net\UserManagement_task3\UserManagement\Services\bin\Debug\net8.0\Utilities.dll
+D:\bootcamp .net\UserManagement_task3\UserManagement\Services\bin\Debug\net8.0\DataAccess.pdb
+D:\bootcamp .net\UserManagement_task3\UserManagement\Services\bin\Debug\net8.0\Utilities.pdb
+D:\bootcamp .net\UserManagement_task3\UserManagement\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+D:\bootcamp .net\UserManagement_task3\UserManagement\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\bootcamp .net\UserManagement_task3\UserManagement\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+D:\bootcamp .net\UserManagement_task3\UserManagement\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+D:\bootcamp .net\UserManagement_task3\UserManagement\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+D:\bootcamp .net\UserManagement_task3\UserManagement\Services\obj\Debug\net8.0\Services.csproj.Up2Date
+D:\bootcamp .net\UserManagement_task3\UserManagement\Services\obj\Debug\net8.0\Services.dll
+D:\bootcamp .net\UserManagement_task3\UserManagement\Services\obj\Debug\net8.0\refint\Services.dll
+D:\bootcamp .net\UserManagement_task3\UserManagement\Services\obj\Debug\net8.0\Services.pdb
+D:\bootcamp .net\UserManagement_task3\UserManagement\Services\obj\Debug\net8.0\ref\Services.dll

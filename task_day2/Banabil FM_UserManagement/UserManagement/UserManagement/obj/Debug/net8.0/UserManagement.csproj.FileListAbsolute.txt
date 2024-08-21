@@ -1,0 +1,44 @@
+D:\course\UserManagement\UserManagement\UserManagement\bin\Debug\net8.0\UserManagement.exe
+D:\course\UserManagement\UserManagement\UserManagement\bin\Debug\net8.0\UserManagement.deps.json
+D:\course\UserManagement\UserManagement\UserManagement\bin\Debug\net8.0\UserManagement.runtimeconfig.json
+D:\course\UserManagement\UserManagement\UserManagement\bin\Debug\net8.0\UserManagement.dll
+D:\course\UserManagement\UserManagement\UserManagement\bin\Debug\net8.0\UserManagement.pdb
+D:\course\UserManagement\UserManagement\UserManagement\bin\Debug\net8.0\DataAccess.dll
+D:\course\UserManagement\UserManagement\UserManagement\bin\Debug\net8.0\Services.dll
+D:\course\UserManagement\UserManagement\UserManagement\bin\Debug\net8.0\Utilities.dll
+D:\course\UserManagement\UserManagement\UserManagement\bin\Debug\net8.0\Services.pdb
+D:\course\UserManagement\UserManagement\UserManagement\bin\Debug\net8.0\DataAccess.pdb
+D:\course\UserManagement\UserManagement\UserManagement\bin\Debug\net8.0\Utilities.pdb
+D:\course\UserManagement\UserManagement\UserManagement\obj\Debug\net8.0\UserManagement.csproj.AssemblyReference.cache
+D:\course\UserManagement\UserManagement\UserManagement\obj\Debug\net8.0\UserManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\course\UserManagement\UserManagement\UserManagement\obj\Debug\net8.0\UserManagement.AssemblyInfoInputs.cache
+D:\course\UserManagement\UserManagement\UserManagement\obj\Debug\net8.0\UserManagement.AssemblyInfo.cs
+D:\course\UserManagement\UserManagement\UserManagement\obj\Debug\net8.0\UserManagement.csproj.CoreCompileInputs.cache
+D:\course\UserManagement\UserManagement\UserManagement\obj\Debug\net8.0\UserMana.582A6DE7.Up2Date
+D:\course\UserManagement\UserManagement\UserManagement\obj\Debug\net8.0\UserManagement.dll
+D:\course\UserManagement\UserManagement\UserManagement\obj\Debug\net8.0\refint\UserManagement.dll
+D:\course\UserManagement\UserManagement\UserManagement\obj\Debug\net8.0\UserManagement.pdb
+D:\course\UserManagement\UserManagement\UserManagement\obj\Debug\net8.0\UserManagement.genruntimeconfig.cache
+D:\course\UserManagement\UserManagement\UserManagement\obj\Debug\net8.0\ref\UserManagement.dll
+D:\bootcamp .net\UserManagement_task3\UserManagement\UserManagement\bin\Debug\net8.0\UserManagement.exe
+D:\bootcamp .net\UserManagement_task3\UserManagement\UserManagement\bin\Debug\net8.0\UserManagement.deps.json
+D:\bootcamp .net\UserManagement_task3\UserManagement\UserManagement\bin\Debug\net8.0\UserManagement.runtimeconfig.json
+D:\bootcamp .net\UserManagement_task3\UserManagement\UserManagement\bin\Debug\net8.0\UserManagement.dll
+D:\bootcamp .net\UserManagement_task3\UserManagement\UserManagement\bin\Debug\net8.0\UserManagement.pdb
+D:\bootcamp .net\UserManagement_task3\UserManagement\UserManagement\bin\Debug\net8.0\DataAccess.dll
+D:\bootcamp .net\UserManagement_task3\UserManagement\UserManagement\bin\Debug\net8.0\Services.dll
+D:\bootcamp .net\UserManagement_task3\UserManagement\UserManagement\bin\Debug\net8.0\Utilities.dll
+D:\bootcamp .net\UserManagement_task3\UserManagement\UserManagement\bin\Debug\net8.0\Services.pdb
+D:\bootcamp .net\UserManagement_task3\UserManagement\UserManagement\bin\Debug\net8.0\DataAccess.pdb
+D:\bootcamp .net\UserManagement_task3\UserManagement\UserManagement\bin\Debug\net8.0\Utilities.pdb
+D:\bootcamp .net\UserManagement_task3\UserManagement\UserManagement\obj\Debug\net8.0\UserManagement.csproj.AssemblyReference.cache
+D:\bootcamp .net\UserManagement_task3\UserManagement\UserManagement\obj\Debug\net8.0\UserManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\bootcamp .net\UserManagement_task3\UserManagement\UserManagement\obj\Debug\net8.0\UserManagement.AssemblyInfoInputs.cache
+D:\bootcamp .net\UserManagement_task3\UserManagement\UserManagement\obj\Debug\net8.0\UserManagement.AssemblyInfo.cs
+D:\bootcamp .net\UserManagement_task3\UserManagement\UserManagement\obj\Debug\net8.0\UserManagement.csproj.CoreCompileInputs.cache
+D:\bootcamp .net\UserManagement_task3\UserManagement\UserManagement\obj\Debug\net8.0\UserMana.582A6DE7.Up2Date
+D:\bootcamp .net\UserManagement_task3\UserManagement\UserManagement\obj\Debug\net8.0\UserManagement.dll
+D:\bootcamp .net\UserManagement_task3\UserManagement\UserManagement\obj\Debug\net8.0\refint\UserManagement.dll
+D:\bootcamp .net\UserManagement_task3\UserManagement\UserManagement\obj\Debug\net8.0\UserManagement.pdb
+D:\bootcamp .net\UserManagement_task3\UserManagement\UserManagement\obj\Debug\net8.0\UserManagement.genruntimeconfig.cache
+D:\bootcamp .net\UserManagement_task3\UserManagement\UserManagement\obj\Debug\net8.0\ref\UserManagement.dll
