@@ -1,0 +1,513 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|d:\\bootcamp .net\\bootcamp.net\\task_day3\\learnwebapi\\application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|solutionrelative:application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|d:\\bootcamp .net\\bootcamp.net\\task_day3\\learnwebapi\\application\\controllers\\tablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|solutionrelative:application\\controllers\\tablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|d:\\bootcamp .net\\bootcamp.net\\task_day3\\learnwebapi\\core\\features\\queries\\deletetablespecification\\deletetablespecificationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\queries\\deletetablespecification\\deletetablespecificationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|d:\\bootcamp .net\\bootcamp.net\\task_day3\\learnwebapi\\core\\features\\queries\\deletetablespecification\\deletetablespecificationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\queries\\deletetablespecification\\deletetablespecificationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|d:\\bootcamp .net\\bootcamp.net\\task_day3\\learnwebapi\\core\\features\\queries\\updatetablespecification\\updatetablespecificationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\queries\\updatetablespecification\\updatetablespecificationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|d:\\bootcamp .net\\bootcamp.net\\task_day3\\learnwebapi\\core\\features\\queries\\addtablespecification\\addtablespecificationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\queries\\addtablespecification\\addtablespecificationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|d:\\bootcamp .net\\bootcamp.net\\task_day3\\learnwebapi\\persistence\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|d:\\bootcamp .net\\bootcamp.net\\task_day3\\learnwebapi\\core\\features\\queries\\addtablespecification\\addtablespecificationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\queries\\addtablespecification\\addtablespecificationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|d:\\bootcamp .net\\bootcamp.net\\task_day3\\learnwebapi\\core\\features\\queries\\addtablespecification\\addtablespecificationquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\queries\\addtablespecification\\addtablespecificationquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|d:\\bootcamp .net\\bootcamp.net\\task_day3\\learnwebapi\\persistence\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|d:\\bootcamp .net\\bootcamp.net\\task_day3\\learnwebapi\\core\\features\\queries\\deletetablespecification\\deletetablespecificationquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\queries\\deletetablespecification\\deletetablespecificationquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|d:\\bootcamp .net\\bootcamp.net\\task_day3\\learnwebapi\\persistence\\repositories\\itablespecificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\itablespecificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|d:\\bootcamp .net\\bootcamp.net\\task_day3\\learnwebapi\\persistence\\repositories\\tablespecificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\tablespecificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|d:\\bootcamp .net\\bootcamp.net\\task_day3\\learnwebapi\\core\\features\\queries\\updatetablespecification\\updatetablespecificationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\queries\\updatetablespecification\\updatetablespecificationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|d:\\bootcamp .net\\bootcamp.net\\task_day3\\learnwebapi\\core\\features\\queries\\updatetablespecification\\updatetablespecificationquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\queries\\updatetablespecification\\updatetablespecificationquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|d:\\bootcamp .net\\bootcamp.net\\task_day3\\learnwebapi\\core\\features\\queries\\getalltablespecifications\\getalltablespecificationsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\queries\\getalltablespecifications\\getalltablespecificationsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|d:\\bootcamp .net\\bootcamp.net\\task_day3\\learnwebapi\\core\\features\\queries\\gettablespecifications\\gettablespecificationshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\queries\\gettablespecifications\\gettablespecificationshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|d:\\bootcamp .net\\bootcamp.net\\task_day3\\learnwebapi\\core\\features\\queries\\gettablespecifications\\gettablespecificationsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\queries\\gettablespecifications\\gettablespecificationsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|d:\\bootcamp .net\\bootcamp.net\\task_day3\\learnwebapi\\core\\features\\queries\\gettablespecifications\\gettablespecificationsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\queries\\gettablespecifications\\gettablespecificationsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|d:\\bootcamp .net\\bootcamp.net\\task_day3\\learnwebapi\\core\\features\\queries\\getalltablespecifications\\getalltablespecificationsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\queries\\getalltablespecifications\\getalltablespecificationsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|d:\\bootcamp .net\\bootcamp.net\\task_day3\\learnwebapi\\core\\features\\queries\\getalltablespecifications\\getalltablespecificationshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\queries\\getalltablespecifications\\getalltablespecificationshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|d:\\bootcamp .net\\bootcamp.net\\task_day3\\learnwebapi\\persistence\\models\\tablespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|solutionrelative:persistence\\models\\tablespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|d:\\bootcamp .net\\bootcamp.net\\task_day3\\learnwebapi\\persistence\\databasecontext\\tablecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|solutionrelative:persistence\\databasecontext\\tablecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|d:\\bootcamp .net\\bootcamp.net\\task_day3\\learnwebapi\\application\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|solutionrelative:application\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|d:\\bootcamp .net\\bootcamp.net\\task_day3\\learnwebapi\\core\\applicationserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\applicationserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|d:\\bootcamp .net\\bootcamp.net\\task_day3\\learnwebapi\\application\\controllers\\indexcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|solutionrelative:application\\controllers\\indexcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|d:\\bootcamp .net\\bootcamp.net\\task_day3\\learnwebapi\\application\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|solutionrelative:application\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|d:\\bootcamp .net\\bootcamp.net\\task_day3\\learnwebapi\\application\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|solutionrelative:application\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|d:\\bootcamp .net\\bootcamp.net\\task_day3\\learnwebapi\\persistence\\persistenceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|solutionrelative:persistence\\persistenceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TableController.cs",
+              "DocumentMoniker": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Application\\Controllers\\TableController.cs",
+              "RelativeDocumentMoniker": "Application\\Controllers\\TableController.cs",
+              "ToolTip": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Application\\Controllers\\TableController.cs",
+              "RelativeToolTip": "Application\\Controllers\\TableController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:53:45.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddTableSpecificationResponse.cs",
+              "DocumentMoniker": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Core\\Features\\Queries\\AddTableSpecification\\AddTableSpecificationResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Queries\\AddTableSpecification\\AddTableSpecificationResponse.cs",
+              "ToolTip": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Core\\Features\\Queries\\AddTableSpecification\\AddTableSpecificationResponse.cs",
+              "RelativeToolTip": "Core\\Features\\Queries\\AddTableSpecification\\AddTableSpecificationResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T07:58:29.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeleteTableSpecificationResponse.cs",
+              "DocumentMoniker": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Core\\Features\\Queries\\DeleteTableSpecification\\DeleteTableSpecificationResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Queries\\DeleteTableSpecification\\DeleteTableSpecificationResponse.cs",
+              "ToolTip": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Core\\Features\\Queries\\DeleteTableSpecification\\DeleteTableSpecificationResponse.cs",
+              "RelativeToolTip": "Core\\Features\\Queries\\DeleteTableSpecification\\DeleteTableSpecificationResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T09:07:02.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateTableSpecificationResponse.cs",
+              "DocumentMoniker": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Core\\Features\\Queries\\UpdateTableSpecification\\UpdateTableSpecificationResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Queries\\UpdateTableSpecification\\UpdateTableSpecificationResponse.cs",
+              "ToolTip": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Core\\Features\\Queries\\UpdateTableSpecification\\UpdateTableSpecificationResponse.cs",
+              "RelativeToolTip": "Core\\Features\\Queries\\UpdateTableSpecification\\UpdateTableSpecificationResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T08:12:45.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeleteTableSpecificationHandler.cs",
+              "DocumentMoniker": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Core\\Features\\Queries\\DeleteTableSpecification\\DeleteTableSpecificationHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Queries\\DeleteTableSpecification\\DeleteTableSpecificationHandler.cs",
+              "ToolTip": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Core\\Features\\Queries\\DeleteTableSpecification\\DeleteTableSpecificationHandler.cs",
+              "RelativeToolTip": "Core\\Features\\Queries\\DeleteTableSpecification\\DeleteTableSpecificationHandler.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAArwBwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T09:07:42.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Application\\Program.cs",
+              "RelativeDocumentMoniker": "Application\\Program.cs",
+              "ToolTip": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Application\\Program.cs",
+              "RelativeToolTip": "Application\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:54:28.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Persistence\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\GenericRepository.cs",
+              "ToolTip": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Persistence\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:55:51.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddTableSpecificationHandler.cs",
+              "DocumentMoniker": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Core\\Features\\Queries\\AddTableSpecification\\AddTableSpecificationHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Queries\\AddTableSpecification\\AddTableSpecificationHandler.cs",
+              "ToolTip": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Core\\Features\\Queries\\AddTableSpecification\\AddTableSpecificationHandler.cs",
+              "RelativeToolTip": "Core\\Features\\Queries\\AddTableSpecification\\AddTableSpecificationHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T07:59:14.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddTableSpecificationQuery.cs",
+              "DocumentMoniker": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Core\\Features\\Queries\\AddTableSpecification\\AddTableSpecificationQuery.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Queries\\AddTableSpecification\\AddTableSpecificationQuery.cs",
+              "ToolTip": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Core\\Features\\Queries\\AddTableSpecification\\AddTableSpecificationQuery.cs",
+              "RelativeToolTip": "Core\\Features\\Queries\\AddTableSpecification\\AddTableSpecificationQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T07:57:41.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Persistence\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Persistence\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAMwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T07:09:30.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeleteTableSpecificationQuery.cs",
+              "DocumentMoniker": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Core\\Features\\Queries\\DeleteTableSpecification\\DeleteTableSpecificationQuery.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Queries\\DeleteTableSpecification\\DeleteTableSpecificationQuery.cs",
+              "ToolTip": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Core\\Features\\Queries\\DeleteTableSpecification\\DeleteTableSpecificationQuery.cs",
+              "RelativeToolTip": "Core\\Features\\Queries\\DeleteTableSpecification\\DeleteTableSpecificationQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T09:06:21.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ITableSpecificationRepository.cs",
+              "DocumentMoniker": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Persistence\\Repositories\\ITableSpecificationRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\ITableSpecificationRepository.cs",
+              "ToolTip": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Persistence\\Repositories\\ITableSpecificationRepository.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\ITableSpecificationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T07:09:00.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TableSpecificationRepository.cs",
+              "DocumentMoniker": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Persistence\\Repositories\\TableSpecificationRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\TableSpecificationRepository.cs",
+              "ToolTip": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Persistence\\Repositories\\TableSpecificationRepository.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\TableSpecificationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T07:10:39.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateTableSpecificationHandler.cs",
+              "DocumentMoniker": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Core\\Features\\Queries\\UpdateTableSpecification\\UpdateTableSpecificationHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Queries\\UpdateTableSpecification\\UpdateTableSpecificationHandler.cs",
+              "ToolTip": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Core\\Features\\Queries\\UpdateTableSpecification\\UpdateTableSpecificationHandler.cs",
+              "RelativeToolTip": "Core\\Features\\Queries\\UpdateTableSpecification\\UpdateTableSpecificationHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T08:13:15.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UpdateTableSpecificationQuery.cs",
+              "DocumentMoniker": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Core\\Features\\Queries\\UpdateTableSpecification\\UpdateTableSpecificationQuery.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Queries\\UpdateTableSpecification\\UpdateTableSpecificationQuery.cs",
+              "ToolTip": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Core\\Features\\Queries\\UpdateTableSpecification\\UpdateTableSpecificationQuery.cs",
+              "RelativeToolTip": "Core\\Features\\Queries\\UpdateTableSpecification\\UpdateTableSpecificationQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T08:08:38.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetAllTableSpecificationsQuery.cs",
+              "DocumentMoniker": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Core\\Features\\Queries\\GetAllTableSpecifications\\GetAllTableSpecificationsQuery.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Queries\\GetAllTableSpecifications\\GetAllTableSpecificationsQuery.cs",
+              "ToolTip": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Core\\Features\\Queries\\GetAllTableSpecifications\\GetAllTableSpecificationsQuery.cs",
+              "RelativeToolTip": "Core\\Features\\Queries\\GetAllTableSpecifications\\GetAllTableSpecificationsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:57:47.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetTableSpecificationsHandler.cs",
+              "DocumentMoniker": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Core\\Features\\Queries\\GetTableSpecifications\\GetTableSpecificationsHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Queries\\GetTableSpecifications\\GetTableSpecificationsHandler.cs",
+              "ToolTip": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Core\\Features\\Queries\\GetTableSpecifications\\GetTableSpecificationsHandler.cs",
+              "RelativeToolTip": "Core\\Features\\Queries\\GetTableSpecifications\\GetTableSpecificationsHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:54:36.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetTableSpecificationsResponse.cs",
+              "DocumentMoniker": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Core\\Features\\Queries\\GetTableSpecifications\\GetTableSpecificationsResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Queries\\GetTableSpecifications\\GetTableSpecificationsResponse.cs",
+              "ToolTip": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Core\\Features\\Queries\\GetTableSpecifications\\GetTableSpecificationsResponse.cs",
+              "RelativeToolTip": "Core\\Features\\Queries\\GetTableSpecifications\\GetTableSpecificationsResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:55:25.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetTableSpecificationsQuery.cs",
+              "DocumentMoniker": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Core\\Features\\Queries\\GetTableSpecifications\\GetTableSpecificationsQuery.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Queries\\GetTableSpecifications\\GetTableSpecificationsQuery.cs",
+              "ToolTip": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Core\\Features\\Queries\\GetTableSpecifications\\GetTableSpecificationsQuery.cs",
+              "RelativeToolTip": "Core\\Features\\Queries\\GetTableSpecifications\\GetTableSpecificationsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:55:04.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetAllTableSpecificationsHandler.cs",
+              "DocumentMoniker": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Core\\Features\\Queries\\GetAllTableSpecifications\\GetAllTableSpecificationsHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Queries\\GetAllTableSpecifications\\GetAllTableSpecificationsHandler.cs",
+              "ToolTip": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Core\\Features\\Queries\\GetAllTableSpecifications\\GetAllTableSpecificationsHandler.cs",
+              "RelativeToolTip": "Core\\Features\\Queries\\GetAllTableSpecifications\\GetAllTableSpecificationsHandler.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T07:00:18.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetAllTableSpecificationsResponse.cs",
+              "DocumentMoniker": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Core\\Features\\Queries\\GetAllTableSpecifications\\GetAllTableSpecificationsResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Queries\\GetAllTableSpecifications\\GetAllTableSpecificationsResponse.cs",
+              "ToolTip": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Core\\Features\\Queries\\GetAllTableSpecifications\\GetAllTableSpecificationsResponse.cs",
+              "RelativeToolTip": "Core\\Features\\Queries\\GetAllTableSpecifications\\GetAllTableSpecificationsResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T07:08:29.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TableSpecification.cs",
+              "DocumentMoniker": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Persistence\\Models\\TableSpecification.cs",
+              "RelativeDocumentMoniker": "Persistence\\Models\\TableSpecification.cs",
+              "ToolTip": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Persistence\\Models\\TableSpecification.cs",
+              "RelativeToolTip": "Persistence\\Models\\TableSpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:55:57.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TableContext.cs",
+              "DocumentMoniker": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Persistence\\DatabaseContext\\TableContext.cs",
+              "RelativeDocumentMoniker": "Persistence\\DatabaseContext\\TableContext.cs",
+              "ToolTip": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Persistence\\DatabaseContext\\TableContext.cs",
+              "RelativeToolTip": "Persistence\\DatabaseContext\\TableContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T07:23:54.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Application\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "Application\\Controllers\\BaseController.cs",
+              "ToolTip": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Application\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "Application\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:53:44.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ApplicationServiceRegistration.cs",
+              "DocumentMoniker": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Core\\ApplicationServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Core\\ApplicationServiceRegistration.cs",
+              "ToolTip": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Core\\ApplicationServiceRegistration.cs",
+              "RelativeToolTip": "Core\\ApplicationServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:55:44.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Application\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Application\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Application\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Application\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-22T07:21:56.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Application\\appsettings.json",
+              "RelativeDocumentMoniker": "Application\\appsettings.json",
+              "ToolTip": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Application\\appsettings.json",
+              "RelativeToolTip": "Application\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-22T07:22:17.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IndexController.cs",
+              "DocumentMoniker": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Application\\Controllers\\IndexController.cs",
+              "RelativeDocumentMoniker": "Application\\Controllers\\IndexController.cs",
+              "ToolTip": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Application\\Controllers\\IndexController.cs",
+              "RelativeToolTip": "Application\\Controllers\\IndexController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:53:46.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PersistenceRegistration.cs",
+              "DocumentMoniker": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Persistence\\PersistenceRegistration.cs",
+              "RelativeDocumentMoniker": "Persistence\\PersistenceRegistration.cs",
+              "ToolTip": "D:\\bootcamp .net\\Bootcamp.NET\\task_day3\\LearnWebApi\\Persistence\\PersistenceRegistration.cs",
+              "RelativeToolTip": "Persistence\\PersistenceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:52:37.876Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

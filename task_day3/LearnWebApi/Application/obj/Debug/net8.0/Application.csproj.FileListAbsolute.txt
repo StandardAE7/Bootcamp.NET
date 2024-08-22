@@ -1,0 +1,228 @@
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/appsettings.Development.json
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/appsettings.json
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/Application
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/Application.deps.json
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/Application.runtimeconfig.json
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/Application.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/Application.pdb
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/Azure.Core.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/Azure.Identity.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/System.Runtime.Caching.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/Persistence.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/Persistence.pdb
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/obj/Debug/net8.0/Application.csproj.AssemblyReference.cache
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/obj/Debug/net8.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/obj/Debug/net8.0/Application.AssemblyInfoInputs.cache
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/obj/Debug/net8.0/Application.AssemblyInfo.cs
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/obj/Debug/net8.0/Application.csproj.CoreCompileInputs.cache
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/obj/Debug/net8.0/Application.MvcApplicationPartsAssemblyInfo.cs
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/obj/Debug/net8.0/Application.MvcApplicationPartsAssemblyInfo.cache
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/obj/Debug/net8.0/staticwebassets.build.json
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/obj/Debug/net8.0/staticwebassets.development.json
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/obj/Debug/net8.0/staticwebassets/msbuild.Application.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/obj/Debug/net8.0/staticwebassets/msbuild.build.Application.props
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Application.props
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Application.props
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/obj/Debug/net8.0/scopedcss/bundle/Application.styles.css
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/obj/Debug/net8.0/Application.csproj.CopyComplete
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/obj/Debug/net8.0/Application.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/obj/Debug/net8.0/refint/Application.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/obj/Debug/net8.0/Application.pdb
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/obj/Debug/net8.0/Application.genruntimeconfig.cache
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/obj/Debug/net8.0/ref/Application.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/MediatR.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/MediatR.Contracts.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/Core.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Application/bin/Debug/net8.0/Core.pdb
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\appsettings.Development.json
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\appsettings.json
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\Application.exe
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\Application.deps.json
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\Application.runtimeconfig.json
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\Application.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\Application.pdb
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\Azure.Core.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\Azure.Identity.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\MediatR.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\System.Memory.Data.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\Core.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\Persistence.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\Core.pdb
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\bin\Debug\net8.0\Persistence.pdb
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\obj\Debug\net8.0\Application.MvcApplicationPartsAssemblyInfo.cs
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\obj\Debug\net8.0\Application.MvcApplicationPartsAssemblyInfo.cache
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\obj\Debug\net8.0\staticwebassets.build.json
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\obj\Debug\net8.0\staticwebassets.development.json
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\obj\Debug\net8.0\staticwebassets\msbuild.Application.Microsoft.AspNetCore.StaticWebAssets.props
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\obj\Debug\net8.0\staticwebassets\msbuild.build.Application.props
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Application.props
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Application.props
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\obj\Debug\net8.0\staticwebassets.pack.json
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\obj\Debug\net8.0\scopedcss\bundle\Application.styles.css
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\obj\Debug\net8.0\Application.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\obj\Debug\net8.0\refint\Application.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\obj\Debug\net8.0\Application.pdb
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\obj\Debug\net8.0\Application.genruntimeconfig.cache
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Application\obj\Debug\net8.0\ref\Application.dll
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\obj\Debug\net8.0\Application.MvcApplicationPartsAssemblyInfo.cache
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\obj\Debug\net8.0\Application.sourcelink.json
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\appsettings.Development.json
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\appsettings.json
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\Application.exe
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\Application.deps.json
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\Application.runtimeconfig.json
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\Application.dll
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\Application.pdb
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\Azure.Core.dll
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\Azure.Identity.dll
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\MediatR.dll
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\System.Memory.Data.dll
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\Core.dll
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\Persistence.dll
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\Core.pdb
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\bin\Debug\net8.0\Persistence.pdb
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\obj\Debug\net8.0\staticwebassets.build.json
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\obj\Debug\net8.0\staticwebassets.development.json
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\obj\Debug\net8.0\staticwebassets\msbuild.Application.Microsoft.AspNetCore.StaticWebAssets.props
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\obj\Debug\net8.0\staticwebassets\msbuild.build.Application.props
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Application.props
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Application.props
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\obj\Debug\net8.0\staticwebassets.pack.json
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\obj\Debug\net8.0\scopedcss\bundle\Application.styles.css
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\obj\Debug\net8.0\Application.dll
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\obj\Debug\net8.0\refint\Application.dll
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\obj\Debug\net8.0\Application.pdb
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\obj\Debug\net8.0\Application.genruntimeconfig.cache
+D:\bootcamp .net\Bootcamp.NET\task_day3\LearnWebApi\Application\obj\Debug\net8.0\ref\Application.dll
