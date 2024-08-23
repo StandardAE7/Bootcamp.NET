@@ -1,0 +1,64 @@
+[
+  {
+    "ContainingType": "Application.Controllers.IndexController",
+    "Method": "Index",
+    "RelativePath": "api/index",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Application.Controllers.TableController",
+    "Method": "AddTableSpecification",
+    "RelativePath": "api/v1/table/specification",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "query",
+        "Type": "Core.Features.Queries.AddTableSpecification.AddTableSpecificationQuery",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Application.Controllers.TableController",
+    "Method": "GetTableSpecifications",
+    "RelativePath": "api/v1/table/specification/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Core.Features.Queries.GetTableSpecifications.GetTableSpecificationsResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
