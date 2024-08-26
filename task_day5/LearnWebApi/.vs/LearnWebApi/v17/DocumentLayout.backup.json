@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\bootcamp .net\\Bootcamp.NET\\task_day5\\LearnWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|d:\\bootcamp .net\\bootcamp.net\\task_day5\\learnwebapi\\application\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|solutionrelative:application\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|d:\\bootcamp .net\\bootcamp.net\\task_day5\\learnwebapi\\persistence\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|solutionrelative:persistence\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|d:\\bootcamp .net\\bootcamp.net\\task_day5\\learnwebapi\\application\\services\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|solutionrelative:application\\services\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|d:\\bootcamp .net\\bootcamp.net\\task_day5\\learnwebapi\\persistence\\models\\tablespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|solutionrelative:persistence\\models\\tablespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|d:\\bootcamp .net\\bootcamp.net\\task_day5\\learnwebapi\\application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|solutionrelative:application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|d:\\bootcamp .net\\bootcamp.net\\task_day5\\learnwebapi\\application\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|solutionrelative:application\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|d:\\bootcamp .net\\bootcamp.net\\task_day5\\learnwebapi\\application\\controllers\\tablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|solutionrelative:application\\controllers\\tablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TableSpecification.cs",
+              "DocumentMoniker": "D:\\bootcamp .net\\Bootcamp.NET\\task_day5\\LearnWebApi\\Persistence\\Models\\TableSpecification.cs",
+              "RelativeDocumentMoniker": "Persistence\\Models\\TableSpecification.cs",
+              "ToolTip": "D:\\bootcamp .net\\Bootcamp.NET\\task_day5\\LearnWebApi\\Persistence\\Models\\TableSpecification.cs",
+              "RelativeToolTip": "Persistence\\Models\\TableSpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T10:04:10.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "D:\\bootcamp .net\\Bootcamp.NET\\task_day5\\LearnWebApi\\Persistence\\Models\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "Persistence\\Models\\RefreshToken.cs",
+              "ToolTip": "D:\\bootcamp .net\\Bootcamp.NET\\task_day5\\LearnWebApi\\Persistence\\Models\\RefreshToken.cs",
+              "RelativeToolTip": "Persistence\\Models\\RefreshToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T09:28:52.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\bootcamp .net\\Bootcamp.NET\\task_day5\\LearnWebApi\\Application\\appsettings.json",
+              "RelativeDocumentMoniker": "Application\\appsettings.json",
+              "ToolTip": "D:\\bootcamp .net\\Bootcamp.NET\\task_day5\\LearnWebApi\\Application\\appsettings.json",
+              "RelativeToolTip": "Application\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-26T05:40:43.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TableController.cs",
+              "DocumentMoniker": "D:\\bootcamp .net\\Bootcamp.NET\\task_day5\\LearnWebApi\\Application\\Controllers\\TableController.cs",
+              "RelativeDocumentMoniker": "Application\\Controllers\\TableController.cs",
+              "ToolTip": "D:\\bootcamp .net\\Bootcamp.NET\\task_day5\\LearnWebApi\\Application\\Controllers\\TableController.cs",
+              "RelativeToolTip": "Application\\Controllers\\TableController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowBUAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T03:56:00.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\bootcamp .net\\Bootcamp.NET\\task_day5\\LearnWebApi\\Application\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Application\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\bootcamp .net\\Bootcamp.NET\\task_day5\\LearnWebApi\\Application\\Controllers\\AuthController.cs*",
+              "RelativeToolTip": "Application\\Controllers\\AuthController.cs*",
+              "ViewState": "AgIAAD8AAAAAAAAAAADwv1gAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T03:54:09.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthServices.cs",
+              "DocumentMoniker": "D:\\bootcamp .net\\Bootcamp.NET\\task_day5\\LearnWebApi\\Application\\Services\\AuthServices.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\AuthServices.cs",
+              "ToolTip": "D:\\bootcamp .net\\Bootcamp.NET\\task_day5\\LearnWebApi\\Application\\Services\\AuthServices.cs",
+              "RelativeToolTip": "Application\\Services\\AuthServices.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T03:51:53.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\bootcamp .net\\Bootcamp.NET\\task_day5\\LearnWebApi\\Application\\Program.cs",
+              "RelativeDocumentMoniker": "Application\\Program.cs",
+              "ToolTip": "D:\\bootcamp .net\\Bootcamp.NET\\task_day5\\LearnWebApi\\Application\\Program.cs",
+              "RelativeToolTip": "Application\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwCMAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T03:33:13.375Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
